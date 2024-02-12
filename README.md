@@ -1,8 +1,8 @@
-<img style="max-width: 512px; border-radius: 12px;" alt="3D rendering of drawer inserts" src="media/drawer-inserts-rendering.png" />
+![3D rendering of drawer inserts](media/drawer-inserts-rendering.png)
 
 # drawer inserts
 
-This is a [blender](https://www.blender.org/) project for procedurally generating 3D printable drawer inserts.
+This is a [blender](https://www.blender.org/) project for procedurally generating 3D printable drawer inserts.  
 Blender v4.0.2 was used to create it.
 
 It is inspired by [this project](https://github.com/node-dojo/dojo-recursive-bins) from @node-dojo.
